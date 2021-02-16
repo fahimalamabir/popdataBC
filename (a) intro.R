@@ -15,7 +15,7 @@
 ## Note that file paths usually contain a back slash (\)
 ## In R, a forward slash is required instead (/)
 ##--------------------------------------------------------
-setwd("~/Desktop/Megan/Section 1")
+setwd("~/Desktop/Fahim/Section 1")
 
 ##==============================================================##
 ##                  Packages and Libraries                      ##
